@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Somin&desc=Front-End%20Developer&fontSize=80&descSize=20&descAlignY=72)
 
-<h4 align="center">:hammer: Skills</h4>
+### <div align="center">:hammer: Skills</div>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
