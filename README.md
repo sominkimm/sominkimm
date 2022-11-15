@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Somin&desc=Front-End%20Developer&fontSize=80&descSize=20&descAlignY=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Somin&desc=Front-End%20Developer&fontSize=80&descSize=24&descAlignY=72)
 
 ### <div align="center">:hammer: Skills</div>
 <div align="center">
